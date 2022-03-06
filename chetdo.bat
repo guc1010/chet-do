@@ -1,0 +1,2 @@
+python chetdo.py
+pause
