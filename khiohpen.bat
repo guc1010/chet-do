@@ -1,0 +1,2 @@
+python khiohpen.py
+pause
